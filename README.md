@@ -1,5 +1,5 @@
 # accordionCardGame
-***I give copyright to my Professor, James Andro Vasko. He is awesome and I found this project to be really fun and creative!***
+***I give copyright to my Professor, James Andro Vasko. He is awesome and I found this project to be really fun and creative! It's a great way to implement and practice Linked Lists, Stacks, and Templates!***
 
 
 Simulate playing games of Accordion. The rules are as follows:
